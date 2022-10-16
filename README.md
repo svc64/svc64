@@ -1,6 +1,6 @@
 ### Welcome! 😊👋
 
-I go by svc64 on the internet. I'm a 12th grade high school student from Israel 🇮🇱
+I go by svc64 on the internet.
 
 - 📘 I know:
   - Skills:
