@@ -22,7 +22,6 @@ I go by svc64 on the internet.
     - some C++ <img valign="middle" src="assets/cplusplus-original.svg" width="24px" />
     
     - x86/ARM64 assembly <img valign="middle" src="assets/aarch64-original.svg" width="24px" />
-- ⚙️ I’m currently working on a 64 bit operating system for the Raspberry Pi
 - 💬 Ask me about arm64 and macOS/iOS stuff, I'll probably be able to help :)
 - 😄 Pronouns: he/him
 - 🔭 I'm interested in:
